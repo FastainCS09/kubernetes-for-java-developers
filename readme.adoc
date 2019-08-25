@@ -164,6 +164,7 @@ There are multiple options to run a single-node k8s cluster on your development 
 - https://kubernetes.io/docs/setup/learning-environment/minikube/[minikube]
 - https://microk8s.io/[microk8s]
 - https://docs.docker.com/docker-for-mac/kubernetes/[Docker Desktop]
+- KIND[https://github.com/kubernetes-sigs/kind]
 - https://kubernetic.com/[Kubernetic]
 
 We will use Docker Desktop on Mac.
