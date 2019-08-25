@@ -167,6 +167,8 @@ There are multiple options to run a single-node k8s cluster on your development 
 - KIND[https://github.com/kubernetes-sigs/kind]
 - https://kubernetic.com/[Kubernetic]
 
+Each of these tools have their own limitations. Often times, customers will create a __dev__ cluster in the cloud as it closely mirrors the __prod__ cluster. This also reduces impedance mismatch between __dev__ and __prod__.
+
 We will use Docker Desktop on Mac.
 
 Kubernetes can be easily enabled on a development machine using Docker for Mac as explained at https://docs.docker.com/docker-for-mac/#kubernetes.
